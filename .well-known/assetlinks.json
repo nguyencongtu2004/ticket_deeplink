@@ -2,7 +2,7 @@
   {
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
-      "namespace": "com.example.event_ticket",
+      "namespace": "android_app",
       "package_name": "com.codeTogether.event_ticket",
       "sha256_cert_fingerprints": [
         "A7:20:EA:48:7D:89:8B:78:60:B1:43:04:8C:95:3C:9E:DC:F0:B2:6A:5C:73:8C:E0:AD:2C:AA:86:17:58:DF:6F"
